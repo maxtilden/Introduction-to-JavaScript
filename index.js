@@ -237,6 +237,8 @@ Using the annoyingSong function below do the following:
 
 function annoyingSong(num){
       /*add your code here*/
+      var thing =5;
+      var newestThing=6;
       
       let song = num +' bottles of soda on the wall, ' + num + ' bottles of soda, take one down pass it around ' + num-1 + ' bottles of soda on the wall';
       console.log(song);
